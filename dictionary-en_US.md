@@ -62,6 +62,7 @@ The reflexive suffix `-sem` can be added to a verb to turn the meaing from *"to 
 - `turu'` - [*direction*] to.
 - `pilo'` - because of.
 - `belsa'` - close to, near.
+- `or'` - [*instrumental*] with, by means of. In the company of.
 
 ## Postpositions
 
@@ -88,15 +89,20 @@ Some additional sentence linking words:
 ## Common Prepositional Phrases
 
 - `on'nizez` - [*interrogative*] when.
-- `n'aram` - [*pronoun, indefinite*] nothing, no one.
-- `m'nitni` - [*location*] here.
 - `m'nizez` - [*interrogative*] where.
 - `poli'nizez` - [*interrogative*] why.
+- `n'aram` - [*pronoun, indefinite*] nothing, no one.
+- `m'n'aram` - [*adverb*] nowhere.
+- `on'n'aram` - [*adverb*] never.
+- `poli'n'aram` - [*adverb*] for no reason, because of nothing.
+- `m'nitni` - [*location*] here, there.
 
 ## Interjections
 
 - `xit` - hi, hello.
 - `eztelassem` - hello.
+- `ezmemassem` - welcome.
+- `trepnilassem` - thank you.
 - `bajo` - used to get peoples attention. Hey.
 - `joba` - emphasizing particle. Adds to the emotional impact or intensity of a sentence. Used often in colloquial speech.
 - `saal` - yes.
@@ -116,14 +122,14 @@ Some additional sentence linking words:
 - `vitel` - [*verb*] to move, (*intransitive*) go.
 - `rung` - [*adjective*] fat.
 - `best` - [*adjective*] based.
-- `kelvel` - [*verb*] to finish, to complete.
 - `belsa` - [*adjective, adverb*] close, near.
 
 ## -tetel-
 
 - `tetel` - [*verb*] (*intransitive*) to speak, (*transitive*) to say, (*with `m'`, intransitive*) to speak a language.
 - `teteltuk` - [*noun*] a speech, one's manner of speaking, speaking. 
-- `tetelteptuk` - [*noun*] a speaker.
+- `tetelteptuk` - [*noun*] a speaker (human.)
+- `tetelor` - [*noun*] a speaker (electronic device.)
 - `tetelez` - [*verb*] to ask.
 - `teteleztuk` - [*noun*] a question.
 
@@ -134,28 +140,48 @@ Some additional sentence linking words:
 - `maragtepti` - [*noun*] a learner.
 - `maragteptuk` - [*noun*] a teacher.
 
-## -eztel-
+## -ez-
 
+- `ez` - [*adjective*] friendly.
 - `eztel` - [*verb*] to greet.
 - `eztelassem` - [*interjection*] *see* [*Interjections.*](dictionary-en_US.md#interjections "Interjections Section")
 - `ezteltuk` - [*noun*] a greeting, greeting.
 - `eztelteptuk` - [*noun*] a greeter.
+- `ezteptuk` - [*noun*] a friend.
+- `ezteptukel` - [*verb, transitive*] to befriend, become friends with. [*verb, intransitive, plural subject only*] to become friends.
+- `ezmem` - [*verb, transitive*] to welcome.
+- `ezmemassem` - [*interjection*] *see* [*Interjections.*](dictionary-en_US.md#interjections "Interjections Section")
+- `mikez` - [*adjective*] communal, shared.
+- `mikeztuk` - [*noun*] a community, a group.
+- `mikezteptuk` - [*noun*] a member (of a group.)
+- `mikeztel` - [*verb*] to share.
+- `mikezteltuk` - [*noun*] sharing.
+
+## -trep-
+
+- `trep` - [*adjective*] thankful.
+- `trepnil` - [*verb, transitive*] to thank.
+- `trepnilassem` - [*interjection*] *see* [*Interjections.*](dictionary-en_US.md#interjections "Interjections Section")
 
 ## -purug-
 
 - `purug` - [*verb*] (*transitive*) to do, (*transative*) to create, to work.
 - `purugtuk` - [*noun*] a creation, an action, doing, creating.
 - `purugteptuk` - [*noun*] a creator.
+- `purugor` - [*noun*] a tool.
+- `purugortepor` - [*noun*] a toolmaker, a toolsmith.
 
 ## -pal-
 
 - `pal` - [*noun*] a building.
 - `paltep` - [*noun*] a home, (*context dependent*) one's home.
+- `palteportuk` - [*noun*] a builder.
 
 ## -tep-
 
 - `tep` - [*adjective*] human, humanoid.
 - `teptuk` - [*noun*] a human, a person.
+- `teportuk` - [*noun*] a worker.
 
 ## -tere-
 
@@ -166,8 +192,8 @@ Some additional sentence linking words:
 - `terememtuk` - [*noun*] a belief, beliving.
 - `terememti` - [*noun*] a beliver.
 - `terememtijan` - [*noun*] a god, (with `!`) God.
-- `terekruv` - [*noun*] knowlege, knowing. [*adjective*] knowlegable, intelligent.
-- `terekruvvel` - [*verb*] to know.
+- `terekruv` - [*noun*] knowlege, understanding, knowing. [*adjective*] knowlegable, intelligent.
+- `terekruvvel` - [*verb*] to know, understand.
 
 ## -komp-
 
@@ -179,6 +205,9 @@ Some additional sentence linking words:
 - `purugkomptel` - [*verb*] to program, (*with `m'`*) to program in a programming language.
 - `purugkompteltuk` - [*noun*] programming.
 - `jezti komptel` - [*noun phrase*] a programming language.
+- `kompmikez` - [*noun*] a computer network, (*with `!`*) the internet.
+- `kompmikezti` - [*noun*] a website.
+- `kompmikeztuk` - [*noun*] a webpage.
 
 ## -tel-
 
@@ -188,6 +217,7 @@ Some additional sentence linking words:
 - `tellelteptuk` - [*noun*] an operator, a controller (human.)
 - `purugtel` - [*verb*] to machine.
 - `purugteltuk` - [*noun*] machining.
+- `purugtelor` - [*noun*] a machining tool.
 - `purugtelteptuk` - [*noun*] a machinist.
 
 ## -kutel-
@@ -201,6 +231,9 @@ Some additional sentence linking words:
 
 - `kruv` - [*noun*] a stone, a rock. [*adjective*] stone, rock.
 - `kruvvel` - [*verb, intransitive*] to be stoic, to be rock-like, to withstand.
+- `kruvvelor` - [*noun*] a shield.
+- `purugkruv` - [*verb*] to work (with stone), (*transitive*) to make from stone.
+- `purugkruvteptuk` - [*noun*] a stonemason.
 
 ## -tels-
 
@@ -222,25 +255,35 @@ Some additional sentence linking words:
 ## -bel-
 
 - `bellev` - [*verb*] to give birth, (*transitive*) to raise, (*transitive*) to care for.
-- `belteptuk` - [*noun*] a parent.
+- `belteptuk` - [*noun*] a parent, a caregiver.
 
 ## -bal-
 
 - `bal` - [*adjective*] dark, shadowy, suspicous.
 - `baltuk` - [*noun*] the dark, a shadow, darkness.
 - `balti` - [*noun*] a moon, (*with `!`*) the moon.
+- `baltibaljet` - [*noun*] a black hole.
+- `baltibaljetxlemoror` - [*noun*] a black hole bomb.
+- `baltibaljet, nlel rezzelbeb` - [*noun phrase*] a rotating black hole.
+- `baltibaljet, nlel rezzelbeb'aram` - [*noun phrase*] a static black hole.
+- `xlemorbaltibaljet` - [*noun*] kugelblitz.
 - `balxol` - [*verb, intransitive*] to sleep.
 - `balxoltuk` - [*noun*] sleep, sleeping.
+- `balxolor` - [*noun*] a bed.
 
 ## -tobar-
 
 - `tobar` - [*adjective*] bright, lit.
 - `tobartuk` - [*noun*] light, brightness.
 - `tobarti` - [*noun*] a star, (*with `!`*) the sun.
+- `tobartixlemoror` - [*noun*] a dyson sphere.
+- `tobaror` - [*noun*] a light, a flashlight.
+- `tobarxlemoror` - [*noun*] a solar panel.
 
 ## -oonv-
 
 - `oonv` - [*noun*] time.
+- `oonvor` - [*noun*] clock, watch.
 - `baloonv` - [*noun*] a night.
 - `baloonvitni` - [*noun, adverb*] tonight.
 - `tobaroonv` - [*noun*] a day.
@@ -257,6 +300,9 @@ Some additional sentence linking words:
 - `xlem` - (*adjective*) possible, (*adverb*) possibly.
 - `xlemtuk` - [*noun*] a possiblity.
 - `xlemul` - [*verb*] can, to be able.
+- `xlemor` - [*noun*] power.
+- `xlemorluk` - [*verb*] (*transitive*) to power, (*intransitive*) to generate power.
+- `xlemoror` - [*noun*] a generator.
 
 ## -ert-
 
@@ -266,18 +312,73 @@ Some additional sentence linking words:
 - `ertultuk` - [*noun*] a spelling, spelling.
 - `ertmiktuk` - [*noun*] a sentence.
 - `ertmiktem` - [*verb*] to write.
-- `ertmittemtuk` - [*noun*] writing.
+- `ertmiktemtuk` - [*noun*] writing, a writing.
+- `ertmiktemor` - [*noun*] a printer.
+- `ertmiktemoral` - [*verb*] to print.
+- `ertmiktemoraltuk` - [*noun*] a print, something that is printed, printing.
+- `ertmiktemtior` - [*noun*] a 3d-printer.
+- `ertmiktemtioral` - [*verb*] to 3d-print.
+- `ertmiktemtioraltuk` - [*noun*] a 3d-print, 3d-printing.
 - `ertmikkompteltuk` - [*noun*] a line (of text,) a string (programming.)
+- `ertvum` - [*adjective*] legible. 
+- `ertvumev` - [*verb*] to read.
+- `ertvumevor` - [*noun*] a book, a text, an article.
+
+## -jet-
+
+- `jet` - [*adjective*] hungry.
+- `jettel` - [*verb*] to eat, to consume.
+- `jettor` - [*noun*] an eating utensil.
+- `jettuk` - [*noun*] food.
+- `purugjet` - [*verb*] (*transitive*) to prepare (cooking,) to cook.
+- `purugjettuk` - [*noun*] cooking.
+- `purugjetteptuk` - [*noun*] a cook, a chef.
+
+## -rez-
+
+- `rez` - [*adjective*] circular, round, curvy.
+- `rezzel` - [*verb*] to rotate.
+- `rezzeltuk` - [*noun*] a rotation, rotating.
+- `rezzelor` - [*noun*] a rotator, something that rotates something else.
+- `reztuk` - [*noun*] a circle.
+- `reztukti` - [*noun*] a sphere.
+
+## -kel-
+
+- `kel` - [*adjective*] finished, complete, whole.
+- `kelvel` - [*verb*] to finish, to complete.
+- `kelveltuk` - [*noun*] a goal, completion, finishing, completing.
+
+## -vum-
+
+- `vum` - [*adjective*] visible, seen.
+- `vumev` - [*verb*] (*instrasitive*) to see, to look.
+- `vumor` - [*noun*] a looking glass, a telescope, a scope, an eye.
+- `vumxlem` - [*noun*] sight.
+- `vumxlemul` - [*verb, instrasitive*] to be able to see.
+- `vumxlemor` - [*noun*] glasses, a contanct lens, a lens.
+
+## -rebben-
+
+- `rebben` - [*adjective*] different.
+- `rebbentuk` - [*noun*] a difference, a change.
+- `rebbenor` - [*noun*] a delimeter, something that differentiates.
+- `rebbenorul` - [*verb*] to delimit, to differentiate.
+- `rebbenul` - [*adjective*] (*transitive*) to make different, to change.
+- `rebbenultuk` - [*noun*] changing.
+- `tererebben` - [*adjective*] chosen.
+- `tererebbenul` - [*verb*] (*intransitive*) to decide, to choose.
+- `tererebbentuk` - [*noun*] a decision, a choice, deciding, choosing.
 
 ## Language Names
 
 - `!xraa` - !xraa.
-- `!iglesh` - English.
+- `!iglez` - English.
 - `!ruski` - Russian.
 - `!pranse` - French.
 - `!matar` - Hungarian.
 - `!intonesija` - Indonesian.
-- `!tesht` - German.
+- `!tezt` - German.
 - `!polska` - Polish.
 - `!toki !pona` - Toki Pona.
 - `!esperanto` - Esperanto.
@@ -288,3 +389,22 @@ Some additional sentence linking words:
 - `!serbosanskravatski` - Bosnian/Serbian/Croatian.
 - `!nixogo` - Japanese.
 - `!gelge` - Irish.
+- `!afrikans` - Afrikaans.
+- `!zezip` - Albanian.
+- `!amarinja` - Amharic.
+- `!alarabija` - Arabic.
+- `!xajeren` - Armenian.
+- `!ukrainska` - Ukranian
+- `!zeztina` - Czech.
+- `!tensk` - Danish.
+- `!suomi` - Finnish.
+- `!elinika` - Greek.
+- `!italijano` - Italian.
+- `!mogol` - Mongolian.
+- `!navatul` - Nahuatl.
+- `!romune` - Romanian.
+- `!kisvaxili` - Swahili.
+- `!svenska` - Swedish.
+- `!turkzte` - Turkish.
+- `!meztuslovjanski` - Interslavic.
+- `!volapjuk` - Volapük (lol.)
