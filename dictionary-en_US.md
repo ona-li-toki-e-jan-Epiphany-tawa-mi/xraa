@@ -217,7 +217,7 @@ Some additional sentence linking words:
 - `tellelteptuk` - [*noun*] an operator, a controller (human.)
 - `purugtel` - [*verb*] to machine.
 - `purugteltuk` - [*noun*] machining.
-- `purugtelor` - [*noun*] a machining tool.
+- `purugtelor` - [*noun*] a machining tool/machine.
 - `purugtelteptuk` - [*noun*] a machinist.
 
 ## -kutel-
@@ -307,7 +307,10 @@ Some additional sentence linking words:
 ## -ert-
 
 - `ert` - [*adjective*] wordy.
+- `ertti` - [*noun*] a symbol, a letter, a glyph.
 - `erttuk` - [*noun*] a word.
+- `tjuerttuk` - [*noun*] a name.
+- `tjuerttukel` - [*verb*] to name, (*with `or'`) to call a name (i.e. "nas tjuerttukeluk Rjen" -> "I call you Rjen/your name is Rjen".)
 - `ertul` - [*verb*] to spell.
 - `ertultuk` - [*noun*] a spelling, spelling.
 - `ertmiktuk` - [*noun*] a sentence.
@@ -352,8 +355,13 @@ Some additional sentence linking words:
 ## -vum-
 
 - `vum` - [*adjective*] visible, seen.
+- `vumtuk` - [*noun*] an image.
+- `tjuvumtuk` - [*noun*] a flag.
+- `vitelvum` - [*noun*] a video.
+- `purugvitelvum` - [*noun*] to record (a video.)
 - `vumev` - [*verb*] (*instrasitive*) to see, to look.
 - `vumor` - [*noun*] a looking glass, a telescope, a scope, an eye.
+- `vumti` - [*noun*] an observer, a watcher.
 - `vumxlem` - [*noun*] sight.
 - `vumxlemul` - [*verb, instrasitive*] to be able to see.
 - `vumxlemor` - [*noun*] glasses, a contanct lens, a lens.
@@ -369,6 +377,14 @@ Some additional sentence linking words:
 - `tererebben` - [*adjective*] chosen.
 - `tererebbenul` - [*verb*] (*intransitive*) to decide, to choose.
 - `tererebbentuk` - [*noun*] a decision, a choice, deciding, choosing.
+
+## -tju-
+
+- `tju` - [*adjective*] important, significant.
+- `tjutuk` - [*noun*] something of importance/significance.
+- `tjuti` - [*noun*] an idol, a symbol (representative of someone or something,) a mascot.
+- `tjuor` - [*noun*] an invention.
+- `tjuorel` - [*verb*] (*intransitive*) to innovate, (*transitive*) to invent.
 
 ## Language Names
 
