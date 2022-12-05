@@ -112,14 +112,12 @@ Some additional sentence linking words:
 ## Non-direct-derivative Words
 
 - `χααν` - [*noun*] bread.
-- `ξεζτι` - [*noun*] a language.
 - `τααρ` - [*adjective*] big.
 - `ςεμμι` - [*adjective*] small.
 - `μαμτι` - [*noun*] a mother, (*context-dependent*) one's mother.
 - `παπτι` - [*noun*] a father, (*context-dependent*) one's father.
 - `απα` - [*adjective*] good, cool.
 - `ξεε` - [*noun*] a thing.
-- `διτελ` - [*verb*] to move, (*intransitive*) go.
 - `ργη` - [*adjective*] fat.
 - `βεςτ` - [*adjective*] based.
 - `βελςα` - [*adjective, adverb*] close, near.
@@ -170,6 +168,10 @@ Some additional sentence linking words:
 - `πγργητεπτγκ` - [*noun*] a creator.
 - `πγργηορ` - [*noun*] a tool.
 - `πγργητεπορ` - [*noun*] a toolmaker, a toolsmith.
+- `πγργηαπα` - [*verb*] (*transitive*) to fix, to improve.
+- `πγργηαπατεπορ` - [*noun*] a repairman.
+- `πγργηςεμμι` - [*verb, transitive*] to shrink.
+- `πγργητααρ` - [*verb, transitive*] to enlarge.
 
 ## -παλ-
 
@@ -279,6 +281,7 @@ Some additional sentence linking words:
 - `τοβαρτιχλεμορορ` - [*noun*] a dyson sphere.
 - `τοβαρορ` - [*noun*] a light, a flashlight.
 - `τοβαρχλεμορορ` - [*noun*] a solar panel.
+- `τοβαρχλεμορδιτελτι` - [*noun*] a stellar engine.
 
 ## -οονδ-
 
@@ -309,6 +312,7 @@ Some additional sentence linking words:
 - `ερτ` - [*adjective*] wordy.
 - `ερττι` - [*noun*] a symbol, a letter, a glyph.
 - `ερττγκ` - [*noun*] a word.
+- `ερττγκμικτι` - [*noun*] a dictionary.
 - `τξγερττγκ` - [*noun*] a name.
 - `τξγερτελ` - [*verb*] to name, (*with `ορ'`) to call a name (i.e. "νας τξγερτελαςςεμ !ρξεν" -> "You are called Rjen/your name is Rjen".)
 - `ερτγλ` - [*verb*] to spell.
@@ -316,13 +320,13 @@ Some additional sentence linking words:
 - `ερτμικτγκ` - [*noun*] a sentence.
 - `ερτμικτεμ` - [*verb*] to write.
 - `ερτμικτεμτγκ` - [*noun*] writing, a writing.
-- `ερτμικτεμορ` - [*noun*] a printer.
-- `ερτμικτεμοραλ` - [*verb*] to print.
-- `ερτμικτεμοραλτγκ` - [*noun*] a print, something that is printed, printing.
-- `ερτμικτεμτιορ` - [*noun*] a 3d-printer.
-- `ερτμικτεμτιοραλ` - [*verb*] to 3d-print.
-- `ερτμικτεμτιοραλτγκ` - [*noun*] a 3d-print, 3d-printing.
-- `ερτμικκομπτελτγκ` - [*noun*] a line (of text,) a string (programming.)
+- `ερτμικορ` - [*noun*] a printer.
+- `ερτμικοραλ` - [*verb*] to print.
+- `ερτμικοραλτγκ` - [*noun*] a print, something that is printed, printing.
+- `ερτμικτιορ` - [*noun*] a 3d-printer.
+- `ερτμικτιοραλ` - [*verb*] to 3d-print.
+- `ερτμικτιοραλτγκ` - [*noun*] a 3d-print, 3d-printing.
+- `ερτμικκομπτελ` - [*noun*] a line (of text,) a string (programming.)
 - `ερτδγμ` - [*adjective*] legible. 
 - `ερτδγμεδ` - [*verb*] to read.
 - `ερτδγμεδορ` - [*noun*] a book, a text, an article.
@@ -385,6 +389,33 @@ Some additional sentence linking words:
 - `τξγτι` - [*noun*] an idol, a symbol (representative of someone or something,) a mascot.
 - `τξγορ` - [*noun*] an invention.
 - `τξγορελ` - [*verb*] (*intransitive*) to innovate, (*transitive*) to invent.
+
+## -διτελ-
+
+- `διτελ` - [*verb*] to move, (*intransitive*) go.
+- `χλεμορδιτελ` - [*verb*] to engineer, to design.
+- `χλεμορδιτελτι` - [*noun*] an engine, a motor.
+- `χλεμορωιτελτγκ` - [*noun*] (*singular only*) engineering.
+- `χλεμορδιτελτεπορ` [*noun*] an engineer.
+- `διτελτι` - [*noun*] a vehicle.
+- `διτελτιτελ` - [*verb*] to drive.
+- `διτελτιτελτγκ` - [*noun*] driving.
+- `διτελτιτεπορ` - [*noun*] a mechanic.
+- `διτελτιτεπτγκ` - [*noun*] a car nut, an automotive enthusiast.
+
+## -ξεζτι-
+
+- `ξεζτι` - [*noun*] a language.
+- `ξεζτιτι` - [*noun*] a noun.
+- `ξεζτιορ` - [*noun*] a verb.
+- `ξεζτιτγκ` - [*noun*] an adjective.
+- `ξεζτιτγκτι` - [*noun*] an adverb.
+- `ξεζτιεζτελ` - [*noun*] an interjection.
+- `ξεζτιτεπορ` - [*noun*] a linguist.
+- `ξεζτιτεπορτγκ` - [*noun*] linguistics.
+- `ρεββενξεζτι` - [*noun*] a translation.
+- `ρεββενξεζτιελ` - [*verb*] to translate.
+- `ρεββενξεζτιτεπορ` - [*noun*] a translator.
 
 ## Language Names
 
