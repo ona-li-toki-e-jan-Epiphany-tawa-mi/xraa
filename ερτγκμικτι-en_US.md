@@ -41,6 +41,10 @@ Some words begin with an exclamation mark `!`, this means that they are proper n
 
 The reflexive suffix `-ςεμ` can be added to a verb to turn the meaing from *"to x"* to *"to be x'd"* (for instance, κγτελγκ *"I want"* -> κγτελγκςεμ *"I am desired"*.)
 
+## Imperative Suffix
+
+The imperative suffix `-ξε` can be added to a verb to ask or compel someone to perform an action. It can also be placed at the after the tense suffix on a copula to command the subject to live, to exist, or to be something. Unless it's used with a copula it isn't necessary to specify a person suffix unless context is not enough or the subject is present within the sentence (i.e. πγργηξε νβεβ *"fix it"* -> νας πγργηαςξε νβεβ *"you, fix it"*.)
+
 ## Tense Suffixes
 
 - `-ονβον` - [*suffix*] past tense. Can be used on nouns and pronouns to form past tense copula.
@@ -51,7 +55,7 @@ The reflexive suffix `-ςεμ` can be added to a verb to turn the meaing from *"
 
 - `-βγλ` - pluralization.
 - `-μικ` - [*with adjectives, intensifier*] very. [*with nouns*] a lot, many.
-- `-χελ` - [*with adjectives*] comparitive.
+- `-χελ` - (*with adjectives*) comparitive, (*with nouns*) more.
 
 ## Prepositions
 
@@ -104,7 +108,7 @@ Some additional sentence linking words:
 - `εζμεμαςςεμ` - welcome.
 - `τρεπνιλαςςεμ` - thank you.
 - `βαξο` - used to get peoples attention. Hey.
-- `ξοβα` - emphasizing particle. Adds to the emotional impact or intensity of a sentence. Used often in colloquial speech.
+- `ξοβα` / `ξαβο` - emphasizing particle. Adds to the emotional impact or intensity of a sentence. Used often in colloquial speech.
 - `ςααλ` - yes.
 - `ςα'αραμ` - no.
 - `πακξγ` - puši kurac ba.
@@ -117,6 +121,7 @@ Some additional sentence linking words:
 - `μαμτι` - [*noun*] a mother, (*context-dependent*) one's mother.
 - `παπτι` - [*noun*] a father, (*context-dependent*) one's father.
 - `απα` - [*adjective*] good, cool.
+- `πιν` - [*adjective*] bad, lame.
 - `ξεε` - [*noun*] a thing.
 - `ργη` - [*adjective*] fat.
 - `βεςτ` - [*adjective*] based.
@@ -416,6 +421,21 @@ Some additional sentence linking words:
 - `ρεββενξεζτι` - [*noun*] a translation.
 - `ρεββενξεζτιελ` - [*verb*] to translate.
 - `ρεββενξεζτιτεπορ` - [*noun*] a translator.
+
+## -λιβ-
+
+- `λιβ` - [*adjective*] lovely, attractive.
+- `λιβελ` - [*verb*] (*instransitive*) to be free, (*transitive*) to love.
+- `λιβτεπορ` - [*noun*] a lover.
+- `λιβτγκ` - [*noun*] love, loving, freedom.
+
+## -ςγμ-
+
+- `ςγμ` - [*noun*] a face
+- `ςγμαπα` - [*noun*] a smile.
+- `ςγμαπαχολ` - [*verb, intransitive*] to smile.
+- `ςγμπιν` - [*noun*] a frown.
+- `ςγμπινχολ` - [*verb, intrasnitive*] to frown.
 
 ## Language Names
 
