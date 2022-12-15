@@ -12,7 +12,9 @@ A noun/adjective may be specified as only being only an adjective, only a noun, 
 
 ## Proper nouns (with `!`)
 
-Some words begin with an exclamation mark `!`, this means that they are proper nouns. Only present in writing, not vocalized. Any noun can be turned into a proper noun using it.
+Some words begin with an exclamation mark `!`, this means that they are proper nouns. Only present in writing, not vocalized. Any noun can be turned into a proper noun using it. 
+
+Proper nouns are vocalized, sounding like !ε /ǀɛ/. Exclamation marks can also appear in words, representing the click /ǀ/, or at the end of a word, where it functions like in English: for exclamations.
 
 ## λα
 
@@ -22,11 +24,12 @@ Some words begin with an exclamation mark `!`, this means that they are proper n
 
 - `-γκ` - [*person suffix, first person, singluar*] I, my.
 - `-αδεκ` - [*person suffix, first person, plural*] We, our.
-- `-ας` - [*person suffix, second person*] You, your.
+- `-ας` - [*person suffix, second person*] You, your./ǀ
 - `-βεβ` - [*person suffix, third person, singluar*] He/she/it, his/her/it's.
 - `-αη` - [*person suffix, third person, plural*] They, their.
 - `-ιτνι` - [*person suffix, demonstrative*] This, that.
 - `-ιζεζ` - [*person suffix, interrogative*] What, who.
+- `-λελ` - [*pronoun, relative*] see `νλελ`.
 - `ν-` - [*pronoun root*] Used to form pronouns with the person suffixes.
 - `νγκ` - [*pronoun, first person, singular*] I.
 - `ναδεκ` - [*pronoun, first person, plural*] We.
@@ -43,7 +46,7 @@ The reflexive suffix `-ςεμ` can be added to a verb to turn the meaing from *"
 
 ## Imperative Suffix
 
-The imperative suffix `-ξε` can be added to a verb to ask or compel someone to perform an action. It can also be placed at the after the tense suffix on a copula to command the subject to live, to exist, or to be something. Unless it's used with a copula it isn't necessary to specify a person suffix unless context is not enough or the subject is present within the sentence (i.e. πγργηξε νβεβ *"fix it"* -> νας πγργηαςξε νβεβ *"you, fix it"*.)
+The imperative suffix `-ξε` can be added to a verb to ask or compel someone to perform an action. It can also be placed at the after the tense suffix on a copula to command the subject to live, to exist, or to be something. Unless it's used with a copula it isn't necessary to specify a person suffix unless context is not enough or the subject is present within the sentence (i.e. πγργηξε αλ'νβεβ *"fix it"* -> νας πγργηαςξε αλ'νβεβ *"you, fix it"*.)
 
 ## Tense Suffixes
 
@@ -55,18 +58,21 @@ The imperative suffix `-ξε` can be added to a verb to ask or compel someone to
 
 - `-βγλ` - pluralization.
 - `-μικ` - [*with adjectives, intensifier*] very. [*with nouns*] a lot, many.
+- `-!εκ` - [*with nouns*] all.
 - `-χελ` - (*with adjectives*) comparitive, (*with nouns*) more.
 
 ## Prepositions
 
-- `μ'` - [*location*] in, at.
+- `μ'` (`μα'` when behind consonant clusters or `!`) - [*location*] in, at.
 - `ον'` - [*time*] at, during, in the time of.
 - `βον'` - [*time, order, location*] before, until, up to.
 - `νοβ'` - [*time, order, location*] after.
-- `τγργ'` - [*direction*] to.
+- `τγργ'` - (*direction*) to, marks indirect objects.
+- `χα!α'` - for the sake of, intended for, for some purpose.
 - `πιλο'` - because of.
 - `βελςα'` - close to, near.
 - `ορ'` - [*instrumental*] with, by means of. In the company of.
+- `αλ'` - marks direct objects.
 
 ## Postpositions
 
@@ -120,7 +126,6 @@ Some additional sentence linking words:
 - `ςεμμι` - [*adjective*] small.
 - `μαμτι` - [*noun*] a mother, (*context-dependent*) one's mother.
 - `παπτι` - [*noun*] a father, (*context-dependent*) one's father.
-- `απα` - [*adjective*] good, cool.
 - `πιν` - [*adjective*] bad, lame.
 - `ξεε` - [*noun*] a thing.
 - `ργη` - [*adjective*] fat.
@@ -221,6 +226,7 @@ Some additional sentence linking words:
 - `τελ` - [*adjective*] mechanical.
 - `τελτγκ` - [*noun*] a machine.
 - `τελλελ` - [*verb, transitive*] to operate (a machine,) to control.
+- `τελλελορ` - [*noun*] a controller (object,) (*plural*) controls.
 - `τελλελτεπορ` - [*noun*] an operator, a controller (human.)
 - `πγργητελ` - [*verb*] to machine.
 - `πγργητελτγκ` - [*noun*] machining.
@@ -271,8 +277,8 @@ Some additional sentence linking words:
 - `βαλτι` - [*noun*] a moon, (*with `!`*) the moon.
 - `βαλτιβαλξετ` - [*noun*] a black hole.
 - `βαλτιβαλξετχλεμορορ` - [*noun*] a black hole bomb.
-- `βαλτιβαλξετ, νλελ ρεζζελβεβ` - [*noun phrase*] a rotating black hole.
-- `βαλτιβαλξετ, νλελ ρεζζελβεβ'αραμ` - [*noun phrase*] a static black hole.
+- `βαλτιβαλξετ, νλελ ρεζζελλελ` - [*noun phrase*] a rotating black hole.
+- `βαλτιβαλξετ, νλελ ρεζζελλελ'αραμ` - [*noun phrase*] a static black hole.
 - `χλεμορβαλτιβαλξετ` - [*noun*] kugelblitz.
 - `βαλχολ` - [*verb, intransitive*] to sleep.
 - `βαλχολτγκ` - [*noun*] sleep, sleeping.
@@ -292,6 +298,7 @@ Some additional sentence linking words:
 
 - `οονδ` - [*noun*] time.
 - `οονδορ` - [*noun*] clock, watch.
+- `οονδιτνι` - [*noun*] now, the present.
 - `βαλοονδ` - [*noun*] a night.
 - `βαλοονδιτνι` - [*noun, adverb*] tonight.
 - `τοβαροονδ` - [*noun*] a day.
@@ -319,7 +326,7 @@ Some additional sentence linking words:
 - `ερττγκ` - [*noun*] a word.
 - `ερττγκμικτι` - [*noun*] a dictionary.
 - `τξγερττγκ` - [*noun*] a name.
-- `τξγερτελ` - [*verb*] to name, (*with `ορ'`) to call a name (i.e. "νας τξγερτελαςςεμ !ρξεν" -> "You are called Rjen/your name is Rjen".)
+- `τξγερτελ` - [*verb*] to name, (*with `ορ'`) to call a name (i.e. "νας τξγερτελαςςεμ ορ'!ρξεν" -> "You are called Rjen/your name is Rjen".)
 - `ερτγλ` - [*verb*] to spell.
 - `ερτγλτγκ` - [*noun*] a spelling, spelling.
 - `ερτμικτγκ` - [*noun*] a sentence.
@@ -360,6 +367,7 @@ Some additional sentence linking words:
 - `κελ` - [*adjective*] finished, complete, whole.
 - `κελδελ` - [*verb*] to finish, to complete.
 - `κελδελτγκ` - [*noun*] a goal, completion, finishing, completing.
+- `κελτι` - [*adjective*] an entirety, a whole.
 
 ## -δγμ-
 
@@ -374,6 +382,7 @@ Some additional sentence linking words:
 - `δγμχλεμ` - [*noun*] sight.
 - `δγμχλεμγλ` - [*verb, instrasitive*] to be able to see.
 - `δγμχλεμορ` - [*noun*] glasses, a contanct lens, a lens.
+- `πγργηδγμ` - [*verb, transitive*] to show, to make visible.
 
 ## -ρεββεν-
 
@@ -381,6 +390,7 @@ Some additional sentence linking words:
 - `ρεββεντγκ` - [*noun*] a difference, a change.
 - `ρεββενορ` - [*noun*] a delimeter, something that differentiates.
 - `ρεββενοργλ` - [*verb*] to delimit, to differentiate.
+- `ρεββεντι` - [*noun*] a version, an iteration.
 - `ρεββενγλ` - [*adjective*] (*transitive*) to make different, to change.
 - `ρεββενγλτγκ` - [*noun*] changing.
 - `τερερεββεν` - [*adjective*] chosen.
@@ -394,6 +404,13 @@ Some additional sentence linking words:
 - `τξγτι` - [*noun*] an idol, a symbol (representative of someone or something,) a mascot.
 - `τξγορ` - [*noun*] an invention.
 - `τξγορελ` - [*verb*] (*intransitive*) to innovate, (*transitive*) to invent.
+
+## -κξε
+
+- `κξε` - [*adjective*] empty.
+- `κξετγκ` - [*noun*] emptiness, a space, a void, (*with `!`*) outerspace.
+- `κξετγκορ` - [*noun*] a container.
+- `κξετγκορτι` - [*noun*] a cell.
 
 ## -διτελ-
 
@@ -424,10 +441,12 @@ Some additional sentence linking words:
 
 ## -λιβ-
 
-- `λιβ` - [*adjective*] lovely, attractive.
+- `λιβ` - [*adjective*] lovely, attractive, free (as in freedom.)
 - `λιβελ` - [*verb*] (*instransitive*) to be free, (*transitive*) to love.
 - `λιβτεπορ` - [*noun*] a lover.
 - `λιβτγκ` - [*noun*] love, loving, freedom.
+- `κομπλιβελ` - [*adjective*] FOS.
+- `κομπλιβελτγκ` - [*noun*] FOSS.
 
 ## -ςγμ-
 
@@ -436,6 +455,13 @@ Some additional sentence linking words:
 - `ςγμαπαχολ` - [*verb, intransitive*] to smile.
 - `ςγμπιν` - [*noun*] a frown.
 - `ςγμπινχολ` - [*verb, intrasnitive*] to frown.
+
+## -απα-
+
+- `απα` - [*adjective*] good, cool.
+- `ρξιπα` - [*adjective*] fun, enjoyable.
+- `ρξιπαλμ` - [*verb*] (*intransitive*) to play, (*transitive*) to play (a game or sport or similar,) (*transitive, with `ορ'`*) to play an instrument. 
+- `διτελρξιπα` - [*noun*] a game.
 
 ## Language Names
 
